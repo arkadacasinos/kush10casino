@@ -67,6 +67,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="dda884de20fc1668" />
         <meta charSet="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="HandheldFriendly" content="true" />
